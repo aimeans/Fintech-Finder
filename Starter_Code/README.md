@@ -19,15 +19,15 @@ bip44 : A Python implementation for deriving hierarchical deterministic wallets 
 Ganache : ​​A program that allows you to quickly set up a local blockchain, which you can use to test and develop smart contracts. 
 
 # showing sender address and history.
-![AppSender](images/GanacheSender.png)
+![AppSender](./images/GanacheSender.png)
 
 
 # showing reciever address and history
-![AppReceiver](images/ganacheReciever.png)
+![AppReceiver](./images/ganacheReciever.png)
 
 
 # showing two test transactions
-![AppEverything](images/ganachetest.png)
+![AppEverything](./images/ganachetest.png)
 
 
 
