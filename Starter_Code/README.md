@@ -1,4 +1,4 @@
-# Challenge 19 Fintech Finder
+# Fintech Finder
 
 
 ## Introduction
